@@ -28,7 +28,8 @@ Project Structure:
 ## Dependencies
 
 - Selenium 4.17.0
-- ChromeDriver 121.0.6167.139
-- Chrome Browser
+- ChromeDriver 121.0.6167.139 (for chrome)
+- Chrome Browser 121.0.6167.139
+- java 17.0.8
 
 Feel free to reach out for any issues or questions.
